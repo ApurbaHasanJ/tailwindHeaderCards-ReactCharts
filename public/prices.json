@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Membership",
+    "price": 50,
+    "features": [
+      "Gym access",
+      "Group classes",
+      "1 PT session/month",
+      "No commitment"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Premium Membership",
+    "price": 100,
+    "features": [
+      "Gym access",
+      "Group classes",
+      "Unlimited PT sessions",
+      "Towel service",
+      "Water bottles"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Platinum Membership",
+    "price": 150,
+    "features": [
+      "Gym access",
+      "Group classes",
+      "Unlimited PT sessions",
+      "Towel service",
+      "Water bottles",
+      "Sauna & steam room",
+      "Nutrition consultation"
+    ]
+  }
+]
